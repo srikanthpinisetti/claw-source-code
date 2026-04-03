@@ -55,7 +55,7 @@ claude-code-from-source/
 - Commit messages: what changed and why, not what files were touched
 
 ## Repo
-- GitHub: alejandrobalderas/claude-code-from-source
+- GitHub: srikanthpinisetti/claw-source-code
 - Future domain: TBD (considering claude-code-from-source.com)
 
 ## Tech Stack (Web App — Future)
