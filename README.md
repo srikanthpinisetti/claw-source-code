@@ -3,7 +3,7 @@
 **Architecture, Patterns & Internals of Anthropic's AI Coding Agent**
 
 <p align="center">
-  <img src="./web/public/cover.jpg" alt="Claude Code from Source — Book Cover" width="400" />
+  <img src="./web/public/cover.png" alt="Claude Code from Source — Book Cover" width="400" />
   <br/><br/>
   <a href="https://srikanthpinisetti.github.io/claw-source-code"><strong>Read online at srikanthpinisetti.github.io/claw-source-code</strong></a>
 </p>
