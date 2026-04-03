@@ -56,7 +56,7 @@ claude-code-from-source/
 
 ## Repo
 - GitHub: srikanthpinisetti/claw-source-code
-- Future domain: TBD (considering claude-code-from-source.com)
+- Site: https://srikanthpinisetti.github.io/claw-source-code
 
 ## Tech Stack (Web App — Future)
 - Astro for static site generation

@@ -5,7 +5,7 @@
 <p align="center">
   <img src="./web/public/cover.jpg" alt="Claude Code from Source — Book Cover" width="400" />
   <br/><br/>
-  <a href="https://claude-code-from-source.com"><strong>Read online at claude-code-from-source.com</strong></a>
+  <a href="https://srikanthpinisetti.github.io/claw-source-code"><strong>Read online at srikanthpinisetti.github.io/claw-source-code</strong></a>
 </p>
 
 ---
